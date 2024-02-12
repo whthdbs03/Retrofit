@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Retrofit</string>
+    
+    <string name="hospital_name">의료기관명</string>
+    <string name="type">권역구분</string>
+    <string name="address">도로명주소</string>
+    <string name="number">응급센터전화번호</string>
+    <string name="city">시군명</string>
+    
+    <string name="api_key">34334acea218465796ece45cb1049a8d</string>
+    
 </resources>
